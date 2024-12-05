@@ -1,0 +1,19 @@
+.heatmap-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 18px;
+    text-align: center;
+  }
+  
+  .heatmap-table th,
+  .heatmap-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  .heatmap-table th {
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  

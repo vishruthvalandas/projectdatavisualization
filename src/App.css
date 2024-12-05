@@ -1,0 +1,33 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+.col{
+padding:0px;
+}
+.App{
+  background-color: #78B3CE;
+  color:#ffffff;
+}
+.container{
+  margin:0px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+.protest-revolution-regular {
+  font-family: "Protest Revolution", sans-serif;
+  font-weight: 1000;
+  font-style: normal;
+}
+
+
+tr:nth-child(even) {background-color: #cccccc;}
